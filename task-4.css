@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 60px;
+    color: white;
+    text-align: center;
+    background-image:url("https://getwallpapers.com/wallpaper/full/b/8/1/489068.jpg") ;
+    background-size: cover;
+    height: 400px;
+    align-items: center;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.insta{
+    font-size: 14px;
+}
+a{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#about-me{
+    border-radius: 4px;
+
+}
+.insta{
+    font-size: 35px;
+
+    align-items: center;
+}
